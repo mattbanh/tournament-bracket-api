@@ -13,3 +13,9 @@ The API will hold tournament information that can be called from the front-end.
 ```bash
 $ npm install
 ```
+
+## Notes
+
+1. npm init
+2. npm i mongodb express dotenv cors
+3.
