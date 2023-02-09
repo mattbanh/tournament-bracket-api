@@ -18,4 +18,8 @@ $ npm install
 
 1. npm init
 2. npm i mongodb express dotenv cors
-3.
+3. npm i -D nodemon
+4. package.json -> "scripts": {
+   "start": "node backend/server.js",
+   "server": "nodemon backend/server.js"
+   }
